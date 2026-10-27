@@ -1,0 +1,15 @@
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos temporários do Streamlit
+.streamlit/
+
+# Banco de dados local
+data/*.db
+data/
